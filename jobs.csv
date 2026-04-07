@@ -1,0 +1,16 @@
+job_id,title,skills,experience
+1,Python Developer,"python sql pandas numpy flask django fastapi api rest api git linux docker",1
+2,Data Analyst,"sql excel pandas numpy data analysis power bi statistics visualization python",1
+3,Backend Developer,"python django flask fastapi api rest api sql postgresql mysql docker linux",2
+4,ML Engineer,"python machine learning deep learning numpy pandas scikit-learn tensorflow pytorch",2
+5,Java Developer,"java sql spring spring boot api oop hibernate mysql git",2
+6,Frontend Developer,"html css javascript react bootstrap ui responsive design api",1
+7,Full Stack Developer,"html css javascript react python django sql api git",2
+8,Software Tester,"testing manual testing automation testing selenium java sql bug tracking",1
+9,DevOps Engineer,"linux docker kubernetes aws shell scripting ci cd networking git",2
+10,Cloud Engineer,"aws linux python networking docker cloud kubernetes shell scripting",2
+11,Cybersecurity Analyst,"networking linux security cybersecurity python sql vulnerability assessment",2
+12,Database Administrator,"sql mysql postgresql database optimization query optimization backup indexing",2
+13,Business Analyst,"sql excel power bi communication data analysis reporting requirements gathering",1
+14,AI Engineer,"python machine learning deep learning numpy pandas tensorflow pytorch nlp",2
+15,Android Developer,"java kotlin android api firebase mobile development xml",1
